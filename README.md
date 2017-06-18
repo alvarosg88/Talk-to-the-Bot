@@ -1,6 +1,6 @@
 # Talk-to-the-Bot
 A WebGL demo that combines virtual reality, speech recognition and synthetic voice from the web browser.<br/><br/>
-It shows a panorama picture that contains an interactive 3D model that allows the user to interact with voice commands and a VR interaction pointer. <strong>The app is configured to work in English and Spanish detecting the browser language atuomatically</strong>.<br/><br/>
+It shows a panorama picture that contains an interactive 3D model that allows the user to interact with voice commands and a VR interaction pointer. <strong>The app is configured to work in English and Spanish detecting the browser language automatically</strong>.<br/><br/>
 <strong>This demo currently works 100% only in Google Chrome and Google Chrome for Android</strong>. You'll find errors and issues with speech recognition in other browsers, and synthetic voice only works in Chrome as an experimental Javascript API.
 
 # Install and run
