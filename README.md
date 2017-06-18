@@ -15,6 +15,12 @@ It shows a panorama picture that contains an interactive 3D model that allows th
 
 This is a very simple implementation of a sort of "VR bot". It can be taken to the next level using conversational platforms such as API.ai or any other information API using AJAX requests in Javascript. Replacing the synthetic voice with recorded audio would increase the quality of the final product.
 
+# Enabling Helper Mode
+
+Just modify this line in `js/main.js`:
+<pre>enableHelperMode(false);</pre>
+If you set it to `true`, it changes the three.js Perspective Camera properties and it shows a wireframed box that represents a "reference area" to place a 3D object in order to make it "credible" combined with the panorama sphere. It also shows a transparent box overlapping with the robot model. That's because the pointer of the Reticulum plugin only works pointing to three.js basic geometries. So any imported 3D object in the scene needs to be "wrapped" within an invisible box geometry that interacts with the pointer.
+
 # Implementation
 
 A list of the libraries and assets used for this demo:
