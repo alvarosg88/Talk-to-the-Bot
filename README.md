@@ -2,7 +2,7 @@
 A WebGL demo that combines virtual reality, speech recognition and synthetic voice from the web browser.<br/><br/>
 It shows a panorama picture that contains an interactive 3D model that allows the user to interact with voice commands and a VR interaction pointer. <strong>The app is configured to work in English and Spanish detecting the browser language automatically</strong>.<br/><br/>
 <strong>This demo currently works 100% only in Google Chrome and Google Chrome for Android</strong>. You'll find errors and issues with speech recognition in other browsers, and synthetic voice only works in Chrome as an experimental Javascript API.<br/><br/>
-<a href="https://www.youtube.com/watch?v=tlX-FjS7eyg&feature=youtu.be&list=PLlmvyH9T-yztt_oK6M0UhlWLiiMHpnrO5" target="blank">I showed this demo in one of my three.js workshops in Spain ( ON MINUTE 31:40 !!!! )</a>
+<a href="https://www.youtube.com/watch?v=tlX-FjS7eyg&feature=youtu.be&list=PLlmvyH9T-yztt_oK6M0UhlWLiiMHpnrO5" target="blank">I showed this demo in one of my three.js workshops in Spain ( IT STARTS ON 31:40 !!!! )</a>
 
 # Install and run
 - Download or clone the source files and run it in a local web server using Google Chrome or Google Chrome for Android.<br/>
